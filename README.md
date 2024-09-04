@@ -21,7 +21,7 @@ This project extracts text from a news article URL and provides a summarized ver
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/news-summarization.git
+   https://github.com/Mohd-Ali2/News-Summarization-BART.git
 
 2. Navigate to directory
 
