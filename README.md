@@ -31,7 +31,7 @@ This project extracts text from a news article URL and provides a summarized ver
 4. Install the required packages
 
    ```bash
-   pip install requests beautifulsoup4 transformers streamlit
+   pip install requests beautifulsoup4 transformers streamlit keras-tf
 
 6. Run it.
 
