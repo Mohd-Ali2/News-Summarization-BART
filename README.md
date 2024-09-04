@@ -24,13 +24,13 @@ This project extracts text from a news article URL and provides a summarized ver
    git clone https://github.com/yourusername/news-summarization.git
 
 2. Navigate to directory
-
+   ```bash
    cd news-summarization
 
 4. Install the required packages
-  
+  ```bash
    pip install requests beautifulsoup4 transformers streamlit
 
 6. Run it.
-
+```bash
    streamlit run app.py
