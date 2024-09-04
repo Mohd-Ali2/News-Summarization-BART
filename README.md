@@ -26,7 +26,7 @@ This project extracts text from a news article URL and provides a summarized ver
 2. Navigate to directory
 
    ```bash
-   cd news-summarization
+   cd News-Summarization-BART
 
 4. Install the required packages
 
